@@ -1,3 +1,11 @@
+# Group Members : 
+Muhammad Hamza Saeed F23607019 
+Hassan Ahmed F23607018
+Maha Ayub F23607032
+Malaika Dawlat F23607011
+
+
+
 # Movie Search Engine
 
 A full-stack NLP search engine over a hand-curated movie corpus, built as an assignment for an NLP course. Search 65 movies by plot, director, cast, or genre using three different ranking algorithms and watch how the rankings change.
