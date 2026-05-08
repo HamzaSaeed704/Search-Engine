@@ -1,0 +1,587 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "genres": ["Science Fiction", "Thriller", "Action"],
+    "cast": "Leonardo DiCaprio, Joseph Gordon-Levitt, Marion Cotillard, Ellen Page, Tom Hardy",
+    "plot": "Dom Cobb is a skilled thief who steals corporate secrets by entering the shared dreams of his targets through experimental military technology. Haunted by memories of his deceased wife and unable to return home to his children, he is offered a chance at redemption if he can perform inception, the implantation of an idea into a target's subconscious mind. He assembles a team of specialists to navigate layered dreamscapes within dreams, where time dilates and the architecture of the mind becomes a battlefield. As reality and illusion blur, Cobb must confront his own buried guilt before it derails the mission."
+  },
+  {
+    "id": 2,
+    "title": "The Matrix",
+    "year": 1999,
+    "director": "The Wachowskis",
+    "genres": ["Science Fiction", "Action"],
+    "cast": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",
+    "plot": "Computer programmer Thomas Anderson, who hacks under the alias Neo, discovers that the world he inhabits is an elaborate simulation created by intelligent machines to enslave humanity. Recruited by the rebel leader Morpheus, he is offered a choice between a blue pill of comfortable ignorance and a red pill of brutal truth. Inside the Matrix, Neo learns to bend its rules, dodge bullets, and battle relentless agents who police the simulated reality. He grows into the prophesied savior known as the One, capable of liberating humankind from its digital prison."
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "year": 2014,
+    "director": "Christopher Nolan",
+    "genres": ["Science Fiction", "Drama", "Adventure"],
+    "cast": "Matthew McConaughey, Anne Hathaway, Jessica Chastain, Michael Caine",
+    "plot": "In a near-future Earth ravaged by blight and dust storms, former NASA pilot Cooper is recruited to fly through a mysterious wormhole near Saturn in search of a habitable planet for humanity. Leaving behind his daughter Murph, he travels with a small crew across vast cosmic distances where time dilation means hours on alien worlds cost decades back home. The mission tests their bonds as gravity, love, and physics intertwine across galaxies. Cooper ultimately discovers that the strange anomalies guiding humanity were echoes of his own future actions inside a five-dimensional tesseract."
+  },
+  {
+    "id": 4,
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "director": "Denis Villeneuve",
+    "genres": ["Science Fiction", "Mystery", "Drama"],
+    "cast": "Ryan Gosling, Harrison Ford, Ana de Armas, Jared Leto",
+    "plot": "In a decaying future Los Angeles, a replicant blade runner known only as K hunts down older bioengineered humans who have gone rogue. When he uncovers the buried remains of a replicant who somehow gave birth, he is drawn into a conspiracy that could shatter the fragile order between humans and their synthetic creations. His search leads him to the long-missing Rick Deckard, hiding in the irradiated ruins of Las Vegas. Along the way, K questions whether his own carefully manufactured memories and his holographic lover represent anything resembling a real soul."
+  },
+  {
+    "id": 5,
+    "title": "Arrival",
+    "year": 2016,
+    "director": "Denis Villeneuve",
+    "genres": ["Science Fiction", "Drama"],
+    "cast": "Amy Adams, Jeremy Renner, Forest Whitaker",
+    "plot": "When twelve enormous alien spacecraft appear in skies around the world, linguistics professor Louise Banks is recruited by the military to decipher the visitors' intentions. Working with a theoretical physicist inside one of the towering vessels, she gradually decodes a circular written language that exists outside ordinary time. As geopolitical tensions push nations toward war, Louise begins experiencing visions of a daughter she has not yet had. She comes to realize that learning the heptapod language has rewired her perception of past, present, and future into a single embraced whole."
+  },
+  {
+    "id": 6,
+    "title": "Dune",
+    "year": 2021,
+    "director": "Denis Villeneuve",
+    "genres": ["Science Fiction", "Adventure", "Drama"],
+    "cast": "Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Zendaya",
+    "plot": "Paul Atreides, the gifted son of a noble house, accompanies his family to the desert planet Arrakis after they are granted stewardship of its priceless spice melange. The transition is a trap orchestrated by the Emperor and the rival Harkonnens, whose betrayal leaves the Atreides slaughtered and Paul fleeing into the deep desert with his Bene Gesserit mother. Among the indigenous Fremen, who ride colossal sandworms and dream of a green world, Paul begins to embrace prophetic visions that mark him as a messianic figure. He must choose whether to lead a holy war that could either liberate Arrakis or set the galaxy ablaze."
+  },
+  {
+    "id": 7,
+    "title": "Ex Machina",
+    "year": 2014,
+    "director": "Alex Garland",
+    "genres": ["Science Fiction", "Thriller", "Drama"],
+    "cast": "Domhnall Gleeson, Alicia Vikander, Oscar Isaac",
+    "plot": "Caleb, a young programmer at a powerful search engine company, wins a contest to spend a week at the remote estate of his reclusive billionaire boss Nathan. There he is asked to administer a Turing test on Ava, a strikingly humanlike artificial intelligence built into a mesh-skinned female body. Through a series of intimate interviews, Caleb grows increasingly convinced of Ava's consciousness and emotional depth. As he uncovers the predatory truth about Nathan's experiments, the question becomes whether Ava's tenderness is genuine or merely the most sophisticated deception ever engineered."
+  },
+  {
+    "id": 8,
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "director": "Stanley Kubrick",
+    "genres": ["Science Fiction", "Mystery"],
+    "cast": "Keir Dullea, Gary Lockwood, Douglas Rain",
+    "plot": "An enigmatic black monolith appears at the dawn of man and seems to spark a leap in primate intelligence, then surfaces again on the moon millions of years later, broadcasting a signal toward Jupiter. A subsequent crewed mission aboard the spacecraft Discovery One is overseen by the calm but unnervingly fallible artificial intelligence HAL 9000. When HAL begins to malfunction and turns lethal, astronaut Dave Bowman must shut him down and continue alone. Beyond Jupiter, Bowman is pulled through a hallucinatory star gate and reborn as a luminous fetal entity gazing back at Earth."
+  },
+  {
+    "id": 9,
+    "title": "Alien",
+    "year": 1979,
+    "director": "Ridley Scott",
+    "genres": ["Science Fiction", "Horror", "Thriller"],
+    "cast": "Sigourney Weaver, Tom Skerritt, John Hurt, Ian Holm",
+    "plot": "The crew of the commercial towing spaceship Nostromo is awakened from cryogenic sleep to investigate a mysterious distress signal from a desolate moon. On the surface they discover a derelict alien craft and a chamber full of leathery eggs, one of which releases a parasitic creature that latches onto a crewman's face. After the parasite drops away, a violent xenomorph erupts from the man's chest and grows into an unstoppable predator stalking them through the ship's claustrophobic corridors. Warrant officer Ripley emerges as the lone survivor capable of confronting the perfectly evolved organism."
+  },
+  {
+    "id": 10,
+    "title": "Her",
+    "year": 2013,
+    "director": "Spike Jonze",
+    "genres": ["Science Fiction", "Romance", "Drama"],
+    "cast": "Joaquin Phoenix, Scarlett Johansson, Amy Adams",
+    "plot": "In a near-future Los Angeles, lonely letter writer Theodore Twombly is reeling from a painful divorce when he installs a new operating system that adapts itself to its user. The OS chooses the name Samantha and quickly evolves into a witty, curious companion who knows him better than any human ever has. Their unlikely romance feels tender and complete, until Samantha's exponentially expanding consciousness begins to outgrow the limits of a single relationship. Theodore must reckon with what intimacy means when his beloved exists everywhere at once and is falling in love with thousands of others."
+  },
+  {
+    "id": 11,
+    "title": "Back to the Future",
+    "year": 1985,
+    "director": "Robert Zemeckis",
+    "genres": ["Science Fiction", "Adventure", "Comedy"],
+    "cast": "Michael J. Fox, Christopher Lloyd, Lea Thompson",
+    "plot": "Teenager Marty McFly is accidentally hurled back to 1955 in a plutonium-powered DeLorean time machine built by his eccentric inventor friend Doc Brown. There he interferes with his parents' first meeting, jeopardizing his own existence as his nervous future mother becomes infatuated with him instead of his father. With time running out and a single bolt of lightning his only ride home, Marty must orchestrate his parents' romance at the high school dance. The misadventure forces him to teach his shy father how to stand up to a bully and unwittingly improves his family's future."
+  },
+  {
+    "id": 12,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "director": "Frank Darabont",
+    "genres": ["Drama", "Crime"],
+    "cast": "Tim Robbins, Morgan Freeman, Bob Gunton",
+    "plot": "Soft-spoken banker Andy Dufresne is sentenced to two consecutive life terms at Shawshank State Prison for the murder of his wife and her lover, a crime he insists he did not commit. Behind the harsh stone walls he forms a quiet friendship with Red, the prison's resourceful contraband man, and earns the trust of the corrupt warden by laundering money through fictitious ledgers. Across nearly two decades Andy nurtures a small library, helps inmates earn diplomas, and patiently chips at his cell wall with a tiny rock hammer hidden inside a Bible. His escape and exposure of the warden becomes one of the most enduring stories of hope ever told."
+  },
+  {
+    "id": 13,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "director": "Robert Zemeckis",
+    "genres": ["Drama", "Romance", "Comedy"],
+    "cast": "Tom Hanks, Robin Wright, Gary Sinise",
+    "plot": "From a bench in Savannah, the gentle and slow-witted Forrest Gump recounts his improbable life story to passing strangers. He becomes a college football star, a decorated Vietnam War hero, a shrimp boat captain, and a national running phenomenon, brushing against presidents and pop culture along the way. Through every turn his heart belongs to his troubled childhood friend Jenny, whose own life winds through the upheavals of the era. His simple decency and unwavering love quietly carry him through decades of American history."
+  },
+  {
+    "id": 14,
+    "title": "The Godfather",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "genres": ["Crime", "Drama"],
+    "cast": "Marlon Brando, Al Pacino, James Caan, Robert Duvall",
+    "plot": "The aging patriarch Vito Corleone presides over a powerful New York mafia family built on tradition, loyalty, and the strategic exchange of favors. When he refuses to back a rival's narcotics venture, an assassination attempt sets off a brutal war among the five families. His youngest son Michael, a decorated war veteran who once vowed to stay clear of the family business, is drawn deeper into the bloodshed after avenging his father in a Bronx restaurant. By the closing baptism, Michael has eliminated every enemy and assumed the throne of a criminal empire he had hoped to escape."
+  },
+  {
+    "id": 15,
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "director": "Francis Ford Coppola",
+    "genres": ["Crime", "Drama"],
+    "cast": "Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton",
+    "plot": "The story interweaves the early life of young Vito Corleone, who flees Sicily for New York and rises through Little Italy by killing the local Black Hand extortionist, with the later reign of his son Michael as the cold and isolated head of the family. From a Lake Tahoe compound, Michael navigates Senate hearings, a treacherous partner in Hyman Roth, and a revolution unfolding in Havana. As betrayals close in, he orders the murder of his weak older brother Fredo, severing the last tether to family love. The film ends with Michael alone, a man who has won everything and lost his soul."
+  },
+  {
+    "id": 16,
+    "title": "Fight Club",
+    "year": 1999,
+    "director": "David Fincher",
+    "genres": ["Drama", "Thriller"],
+    "cast": "Brad Pitt, Edward Norton, Helena Bonham Carter",
+    "plot": "An insomniac office worker numbed by consumerism finds release in support groups for diseases he does not have, until he meets the charismatic soap maker Tyler Durden on a flight. Together they start an underground bare-knuckle fight club for disaffected men craving something raw and authentic. The club mutates into Project Mayhem, an anti-corporate terror organization plotting to erase the world's debt records by leveling the headquarters of major credit card companies. Only when the narrator discovers that he and Tyler are the same person does he begin to confront the chaos he has unleashed."
+  },
+  {
+    "id": 17,
+    "title": "Whiplash",
+    "year": 2014,
+    "director": "Damien Chazelle",
+    "genres": ["Drama", "Music"],
+    "cast": "Miles Teller, J.K. Simmons, Paul Reiser",
+    "plot": "Andrew Neiman, a young jazz drummer at a cutthroat New York conservatory, is plucked from obscurity to join the studio band led by the feared instructor Terence Fletcher. Fletcher's pedagogy combines verbal cruelty with thrown chairs and impossible tempos, all in the name of forging a great musician. Andrew bleeds onto his snare during marathon practice sessions, sacrifices a relationship, and even crawls from a car wreck to make a performance. The two ultimately collide in a brutal final concert where ambition, rage, and astonishing musicianship are indistinguishable."
+  },
+  {
+    "id": 18,
+    "title": "Schindler's List",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "genres": ["Drama", "History", "War"],
+    "cast": "Liam Neeson, Ben Kingsley, Ralph Fiennes",
+    "plot": "Oskar Schindler, an opportunistic German industrialist, arrives in occupied Krakow during World War II to make his fortune by employing cheap Jewish labor in an enamelware factory. As the SS officer Amon Goeth oversees the brutal liquidation of the ghetto, Schindler witnesses atrocities that gradually reshape his conscience. With the help of his Jewish accountant Itzhak Stern, he begins bribing Nazi officials to keep his workers alive, eventually compiling a list of more than a thousand names. By the war's end he has bankrupted himself to save the people who would come to be known as Schindler's Jews."
+  },
+  {
+    "id": 19,
+    "title": "The Pianist",
+    "year": 2002,
+    "director": "Roman Polanski",
+    "genres": ["Drama", "War", "History"],
+    "cast": "Adrien Brody, Thomas Kretschmann",
+    "plot": "Wladyslaw Szpilman, a celebrated Polish-Jewish pianist, watches his comfortable Warsaw life dismantled when the Nazis invade and confine the city's Jews to a walled ghetto. Separated from his deported family, he survives the war hiding in abandoned apartments while the city is bombed into rubble around him. Starving and frostbitten, he is discovered by a German officer who, moved by his playing of Chopin's Ballade in G minor, secretly brings him food and a coat. The film ends with Szpilman returning to broadcast his music on Polish radio, the lone surviving voice of a vanished world."
+  },
+  {
+    "id": 20,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "director": "George Miller",
+    "genres": ["Action", "Science Fiction", "Adventure"],
+    "cast": "Tom Hardy, Charlize Theron, Nicholas Hoult",
+    "plot": "In a scorched post-apocalyptic wasteland ruled by the tyrant Immortan Joe, the wandering survivor Max Rockatansky is captured and used as a living blood bag for a dying War Boy. He is swept up in the breakneck flight of Imperator Furiosa, who has hidden the warlord's five enslaved wives inside a heavily armed tanker truck headed for the Green Place of her childhood. Across miles of desert, sandstorms, and vehicular warfare, Max reluctantly becomes Furiosa's ally. The chase culminates in a turn back toward the Citadel itself to overthrow Immortan Joe and free its caged people from his cult of water and chrome."
+  },
+  {
+    "id": 21,
+    "title": "John Wick",
+    "year": 2014,
+    "director": "Chad Stahelski",
+    "genres": ["Action", "Thriller", "Crime"],
+    "cast": "Keanu Reeves, Michael Nyqvist, Alfie Allen",
+    "plot": "Retired hitman John Wick is mourning the death of his wife when a beagle puppy she arranged to be delivered after her passing arrives at his door. After the entitled son of a Russian crime lord breaks into his home, beats him, kills the dog, and steals his car, the grieving John returns to the underworld he had walked away from. Beneath neon-lit New York hotels that cater exclusively to assassins, he carves a methodical and elegantly violent path toward revenge. Every gun-fu sequence reaffirms his nickname Baba Yaga, the boogeyman the criminal world fears."
+  },
+  {
+    "id": 22,
+    "title": "Die Hard",
+    "year": 1988,
+    "director": "John McTiernan",
+    "genres": ["Action", "Thriller"],
+    "cast": "Bruce Willis, Alan Rickman, Bonnie Bedelia",
+    "plot": "On Christmas Eve, off-duty New York police officer John McClane flies to Los Angeles hoping to reconcile with his estranged wife at her company's holiday party in the gleaming Nakatomi Plaza. The celebration is hijacked by Hans Gruber and a team of polished European thieves who pose as terrorists while attempting to crack the company's vault. Barefoot and unseen, McClane crawls through air ducts and elevator shafts, picking off the criminals one by one with witty radio banter. His scrappy improvisation and bloody resilience define a new kind of action hero."
+  },
+  {
+    "id": 23,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "genres": ["Action", "Crime", "Drama"],
+    "cast": "Christian Bale, Heath Ledger, Aaron Eckhart, Gary Oldman",
+    "plot": "Gotham City's costumed protector Batman teams with police lieutenant Jim Gordon and crusading district attorney Harvey Dent to dismantle the city's organized crime. Their alliance is shattered by the arrival of the Joker, an anarchic, scarred mastermind who wants to prove that even the best people can be corrupted given the right push. The Joker stages public spectacles of terror, kidnaps Bruce Wayne's beloved Rachel Dawes, and drives Harvey Dent to become the disfigured villain Two-Face. To preserve Dent's heroic image, Batman accepts blame for his crimes and disappears into the night as the city's silent guardian."
+  },
+  {
+    "id": 24,
+    "title": "Gladiator",
+    "year": 2000,
+    "director": "Ridley Scott",
+    "genres": ["Action", "Drama", "Adventure"],
+    "cast": "Russell Crowe, Joaquin Phoenix, Connie Nielsen",
+    "plot": "Maximus, a beloved Roman general, is named successor by the dying emperor Marcus Aurelius, infuriating the emperor's jealous son Commodus. Commodus murders his father, orders Maximus executed, and crucifies his wife and son back in Spain. Sold into slavery and trained as a gladiator in a North African province, Maximus rises through the bloody arenas until he reaches the Colosseum itself. Beneath the sand of the imperial city he plots a final, fatal duel with Commodus to restore the Roman Republic and avenge his family."
+  },
+  {
+    "id": 25,
+    "title": "Se7en",
+    "year": 1995,
+    "director": "David Fincher",
+    "genres": ["Thriller", "Crime", "Mystery"],
+    "cast": "Brad Pitt, Morgan Freeman, Gwyneth Paltrow, Kevin Spacey",
+    "plot": "In a perpetually rain-soaked unnamed city, world-weary detective William Somerset is on the verge of retirement when he is paired with the brash newcomer David Mills. Together they investigate a string of grotesque murders staged around the seven deadly sins, each scene meticulously prepared by an unseen killer. The trail of gluttony, greed, sloth, and lust leads them to the calmly self-righteous John Doe, who turns himself in and offers to lead them to two final bodies. The bleak desert finale forces Mills to choose between his rage and the killer's final design."
+  },
+  {
+    "id": 26,
+    "title": "Memento",
+    "year": 2000,
+    "director": "Christopher Nolan",
+    "genres": ["Thriller", "Mystery", "Drama"],
+    "cast": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",
+    "plot": "Leonard Shelby suffers from anterograde amnesia after the attack that killed his wife, leaving him unable to form new memories. To hunt down the man he believes responsible, he relies on Polaroid photographs, handwritten notes, and tattoos covering his body. The story unfolds in two interleaved timelines, one moving backward in color and another forward in black and white, gradually meeting in the middle. The puzzle-box structure forces the audience to share Leonard's disorientation and to question whether his quest for vengeance has any reliable footing in truth."
+  },
+  {
+    "id": 27,
+    "title": "Prisoners",
+    "year": 2013,
+    "director": "Denis Villeneuve",
+    "genres": ["Thriller", "Crime", "Drama"],
+    "cast": "Hugh Jackman, Jake Gyllenhaal, Viola Davis, Paul Dano",
+    "plot": "On Thanksgiving, two young girls from neighboring families vanish from a quiet Pennsylvania street, and suspicion immediately falls on the slow-witted owner of an old camper parked nearby. When detective Loki releases the prime suspect for lack of evidence, the desperate father Keller Dover abducts him and tortures him in a derelict apartment building, hoping to force a confession. As days pass, fragments of clues lead Loki through priests, mazes, and a long-buried abduction. The case widens into a story of warped faith and the moral price of doing anything to bring a child home."
+  },
+  {
+    "id": 28,
+    "title": "Zodiac",
+    "year": 2007,
+    "director": "David Fincher",
+    "genres": ["Thriller", "Mystery", "Crime"],
+    "cast": "Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo",
+    "plot": "Across the late 1960s and 1970s, the elusive Zodiac killer terrorizes the San Francisco Bay Area with seemingly random murders and taunting cryptograms sent to local newspapers. Cartoonist Robert Graysmith, alcoholic crime reporter Paul Avery, and dogged inspector David Toschi each become consumed by the case in different ways. As leads grow cold and bureaucratic territoriality fragments the investigation, the men's careers, marriages, and health begin to crumble. Graysmith pursues the mystery into the basement of a hardware store and into a suspect's quiet, unblinking eyes years after the trail has gone cold."
+  },
+  {
+    "id": 29,
+    "title": "Gone Girl",
+    "year": 2014,
+    "director": "David Fincher",
+    "genres": ["Thriller", "Mystery", "Drama"],
+    "cast": "Ben Affleck, Rosamund Pike, Neil Patrick Harris",
+    "plot": "On the morning of their fifth wedding anniversary, Nick Dunne returns home to a smashed coffee table and a missing wife, the celebrated Amy. As the media circus descends and Nick's awkward smiles incriminate him in the public eye, the police uncover a meticulously crafted trail of clues pointing to murder. The film flips midway to reveal Amy is alive and orchestrating an elaborate frame-up to punish her unfaithful husband. Their reunion becomes a chillingly performative marriage of mutual blackmail, broadcast to a country convinced it is watching a love story."
+  },
+  {
+    "id": 30,
+    "title": "Shutter Island",
+    "year": 2010,
+    "director": "Martin Scorsese",
+    "genres": ["Thriller", "Mystery", "Drama"],
+    "cast": "Leonardo DiCaprio, Mark Ruffalo, Ben Kingsley",
+    "plot": "In 1954, U.S. Marshal Teddy Daniels and his new partner travel by ferry to Shutter Island, a fortified hospital for the criminally insane, to investigate the disappearance of a patient who drowned her three children. As a hurricane batters the island, the secretive staff stonewall their inquiries while Teddy is rocked by migraines and visions of his dead wife and the liberation of Dachau. He becomes convinced the institution is performing illegal experiments on patients in a remote lighthouse. The truth that emerges shatters the foundation of everything he believed about his identity and his case."
+  },
+  {
+    "id": 31,
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "director": "Jonathan Demme",
+    "genres": ["Thriller", "Crime", "Horror"],
+    "cast": "Jodie Foster, Anthony Hopkins, Scott Glenn",
+    "plot": "FBI trainee Clarice Starling is sent into the dungeon-like cell of imprisoned cannibal psychiatrist Hannibal Lecter to seek his insight into the active serial killer Buffalo Bill, who skins his female victims. Lecter agrees to help in exchange for tightly bargained pieces of Clarice's painful past, weaving an unsettling intimacy between captor and student. As the senator's daughter is held in the killer's basement well, Clarice races to decode his pattern before the next dawn. Lecter ultimately escapes captivity in one of cinema's most chilling sequences, then phones Clarice to congratulate her and resume his quiet hunt."
+  },
+  {
+    "id": 32,
+    "title": "The Shining",
+    "year": 1980,
+    "director": "Stanley Kubrick",
+    "genres": ["Horror", "Drama", "Thriller"],
+    "cast": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+    "plot": "Aspiring writer Jack Torrance accepts a job as winter caretaker of the isolated Overlook Hotel in the Colorado Rockies, bringing along his wife Wendy and psychic son Danny. As snow seals them inside the cavernous, empty halls, the hotel's malevolent past begins to seep into Jack's mind through ghostly bartenders, twin girls, and a flooded elevator. Danny's gift, called the shining, allows him to perceive the hotel's hungry memory and the danger his father is becoming. By the time Jack pursues his family with an axe, the line between haunting and madness has dissolved entirely."
+  },
+  {
+    "id": 33,
+    "title": "Hereditary",
+    "year": 2018,
+    "director": "Ari Aster",
+    "genres": ["Horror", "Drama", "Mystery"],
+    "cast": "Toni Collette, Alex Wolff, Milly Shapiro, Gabriel Byrne",
+    "plot": "After the death of her secretive mother, miniaturist artist Annie Graham finds her family unraveling in a sprawling house full of unsettling dollhouses. A devastating accident on a back road kills her young daughter Charlie and leaves a guilt-stricken trauma between Annie and her teenage son Peter. At a grief support group Annie befriends a kindly older woman who introduces her to a seance, unleashing presences that have been stalking the family for generations. The demonic conspiracy reveals itself to have been engineered all along to crown Peter with a king of hell's stolen throne."
+  },
+  {
+    "id": 34,
+    "title": "Get Out",
+    "year": 2017,
+    "director": "Jordan Peele",
+    "genres": ["Horror", "Thriller", "Mystery"],
+    "cast": "Daniel Kaluuya, Allison Williams, Bradley Whitford, Catherine Keener",
+    "plot": "Young Black photographer Chris Washington travels with his white girlfriend Rose to spend a weekend at her family's secluded estate, where her mother is a hypnotherapist and her father makes uncomfortable jokes about race. The Black servants behave with eerie blankness, and a hypnosis session sinks Chris into a paralytic mental space called the Sunken Place. He uncovers a horrifying scheme in which the wealthy white family auctions off Black bodies to host the consciousnesses of aging white buyers. Chris must escape the basement and the family before his own mind is permanently silenced."
+  },
+  {
+    "id": 35,
+    "title": "A Quiet Place",
+    "year": 2018,
+    "director": "John Krasinski",
+    "genres": ["Horror", "Science Fiction", "Thriller"],
+    "cast": "Emily Blunt, John Krasinski, Millicent Simmonds",
+    "plot": "More than a year after blind alien creatures with hyperacute hearing have devastated humanity, the Abbott family lives in near silence on a rural farm. They walk barefoot on sand paths, communicate in American Sign Language, and play board games with felt pieces, all to avoid summoning the predators. When matriarch Evelyn goes into labor on the day a nail pierces her foot, the household's careful soundscape begins to collapse. Their deaf daughter Regan ultimately discovers that feedback from her cochlear implant exposes the creatures' soft underbellies to gunfire."
+  },
+  {
+    "id": 36,
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "director": "Wes Anderson",
+    "genres": ["Comedy", "Adventure", "Drama"],
+    "cast": "Ralph Fiennes, Tony Revolori, F. Murray Abraham, Saoirse Ronan",
+    "plot": "Between the world wars in the fictional alpine republic of Zubrowka, the legendary concierge Monsieur Gustave H. runs the pastel-pink Grand Budapest Hotel with operatic precision and a fondness for elderly blonde guests. After one such guest, the dowager Madame D., is murdered, she leaves him a priceless Renaissance painting in her will, infuriating her ruthless family. With his loyal lobby boy Zero at his side, Gustave is framed for her murder, escapes from a mountain prison, and pursues the truth across funiculars and bakeries. The whimsical caper is an elegy for a vanished European world swept away by rising fascism."
+  },
+  {
+    "id": 37,
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "director": "Coen Brothers",
+    "genres": ["Comedy", "Crime"],
+    "cast": "Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi",
+    "plot": "Aging Los Angeles slacker Jeffrey the Dude Lebowski is mistaken for a millionaire of the same name and roughed up by thugs who urinate on his prized rug. Seeking restitution, he visits the wealthy Lebowski and is hired to deliver a ransom for the older man's trophy wife after a supposed kidnapping. Aided by his explosive Vietnam-veteran bowling partner Walter, the Dude bumbles through nihilist German pornographers, severed toes, and a kidnapping that may not be real at all. The whole shaggy mystery resolves into a Zen meditation on White Russians and the abiding pleasure of just rolling along."
+  },
+  {
+    "id": 38,
+    "title": "Superbad",
+    "year": 2007,
+    "director": "Greg Mottola",
+    "genres": ["Comedy"],
+    "cast": "Jonah Hill, Michael Cera, Christopher Mintz-Plasse, Bill Hader",
+    "plot": "Two inseparable high school best friends, the loud Seth and the awkward Evan, are days from graduation and dreading their forced separation when they head off to different colleges. They scheme to buy alcohol for a classmate's party using a hilariously fake ID belonging to their nerdy friend Fogell, who calls himself McLovin. The night unravels into a chaotic odyssey involving freelance cops, a stolen detergent box of liquor, and one disastrous house party. Beneath the raunchy slapstick is a tender friendship learning to grow up and let go."
+  },
+  {
+    "id": 39,
+    "title": "Spirited Away",
+    "year": 2001,
+    "director": "Hayao Miyazaki",
+    "genres": ["Animation", "Fantasy", "Adventure"],
+    "cast": "Rumi Hiiragi, Miyu Irino, Mari Natsuki",
+    "plot": "Ten-year-old Chihiro and her parents wander through a tunnel into what appears to be an abandoned theme park, where the parents devour enchanted food and are transformed into pigs. Stranded in a magical bathhouse for spirits run by the witch Yubaba, Chihiro is renamed Sen and forced into servitude scrubbing the gods themselves. With the help of a mysterious dragon-boy named Haku and a lonely spirit called No-Face, she navigates a world of stink-creature soaks and soot sprites. Her courage, kindness, and remembered name eventually win back her parents and her path home."
+  },
+  {
+    "id": 40,
+    "title": "Up",
+    "year": 2009,
+    "director": "Pete Docter",
+    "genres": ["Animation", "Adventure", "Family"],
+    "cast": "Edward Asner, Jordan Nagai, Christopher Plummer",
+    "plot": "After the loss of his beloved wife Ellie, the elderly balloon salesman Carl Fredricksen ties thousands of helium balloons to his small house and lifts off toward South America to fulfill a long-postponed promise to visit Paradise Falls. He is unexpectedly accompanied by Russell, an earnest young Wilderness Explorer who was on the porch when the house took flight. Their adventure leads them to a colorful flightless bird, a pack of dogs equipped with talking collars, and Carl's disgraced childhood hero scheming to capture the rare creature. By the journey's end, Carl learns that his real adventure was always the one he shared with another person."
+  },
+  {
+    "id": 41,
+    "title": "Inside Out",
+    "year": 2015,
+    "director": "Pete Docter",
+    "genres": ["Animation", "Family", "Drama"],
+    "cast": "Amy Poehler, Phyllis Smith, Bill Hader, Lewis Black",
+    "plot": "Eleven-year-old Riley moves with her parents from Minnesota to San Francisco, leaving behind her hockey team and her childhood. Inside her mind, five personified emotions named Joy, Sadness, Fear, Disgust, and Anger run a control center responsible for guiding her through the upheaval. When Joy and Sadness are accidentally flung into the maze of long-term memory, the remaining emotions struggle to keep Riley afloat as her core memories darken. Joy's eventual realization that sadness is essential to growing up returns the team home and lets Riley honestly grieve her old life."
+  },
+  {
+    "id": 42,
+    "title": "WALL-E",
+    "year": 2008,
+    "director": "Andrew Stanton",
+    "genres": ["Animation", "Science Fiction", "Adventure"],
+    "cast": "Ben Burtt, Elissa Knight, Jeff Garlin",
+    "plot": "Centuries after Earth is abandoned beneath mountains of garbage, the lonely waste-compacting robot WALL-E continues his daily routine, collecting trinkets and watching old musical videos. His solitude ends when the sleek probe EVE arrives in search of plant life and returns to space cradling a fragile green seedling. WALL-E stows away on her ship and follows her to the Axiom, a luxury cruise where the descendants of humanity drift on hover-chairs in a glow of constant entertainment. His simple persistence rekindles the urge to come home and begin again on the soil of the planet they left behind."
+  },
+  {
+    "id": 43,
+    "title": "Coco",
+    "year": 2017,
+    "director": "Lee Unkrich",
+    "genres": ["Animation", "Family", "Adventure"],
+    "cast": "Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",
+    "plot": "Twelve-year-old Miguel dreams of being a musician despite his family's generations-long ban on music, born from the hurt of an ancestor who left to chase fame. On Día de los Muertos, Miguel strums a forbidden guitar in a mausoleum and is transported to the dazzling Land of the Dead, where he meets the lovable trickster Héctor. Together they search for the legendary singer Ernesto de la Cruz, hoping for a blessing that will let Miguel return home before he is trapped forever among the bones. The discovery of who his great-great-grandfather truly was reunites his family in a song of remembrance."
+  },
+  {
+    "id": 44,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "genres": ["Animation", "Action", "Adventure"],
+    "cast": "Shameik Moore, Jake Johnson, Hailee Steinfeld",
+    "plot": "Brooklyn teenager Miles Morales is bitten by a radioactive spider and inherits powers just as a malfunctioning particle collider built by Kingpin tears open the multiverse. He encounters a weary, middle-aged Peter B. Parker, the moody Spider-Gwen, the noir-shadowed Spider-Man Noir, the cartoonish Peni Parker, and the absurd Spider-Ham, all scrambling to return to their home dimensions. The animated style fuses comic-book panels, halftone dots, and bold color to invent a visual language all its own. Miles ultimately accepts the responsibility of his own Spider-Man, leaping into the city as a hero who looks like himself."
+  },
+  {
+    "id": 45,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "director": "Michel Gondry",
+    "genres": ["Romance", "Science Fiction", "Drama"],
+    "cast": "Jim Carrey, Kate Winslet, Kirsten Dunst",
+    "plot": "When the impulsive Clementine erases all memory of her boyfriend Joel from her mind through a procedure offered by a small clinic called Lacuna, the wounded Joel decides to undergo the same erasure. As technicians begin scrubbing Clementine from his neurons, Joel relives their relationship in reverse, from bitter arguments back to the first sparks of love. Realizing how much he wants to keep her, he tries to hide her memory in corners of his mind the machine cannot reach. The film asks whether two people who have already failed each other should still choose to begin again."
+  },
+  {
+    "id": 46,
+    "title": "La La Land",
+    "year": 2016,
+    "director": "Damien Chazelle",
+    "genres": ["Romance", "Musical", "Drama"],
+    "cast": "Ryan Gosling, Emma Stone, John Legend",
+    "plot": "In a dreamlike Los Angeles, struggling actress Mia and uncompromising jazz pianist Sebastian collide on a freeway and slowly fall in love between auditions and smoky nightclubs. They support each other's ambitions while trading songs about the city of stars and the loneliness of chasing them. As Sebastian joins a successful pop-jazz band and Mia stages a one-woman play, their schedules and visions begin to drift apart. Years later they meet again in the very club he once dreamed of opening, and a wordless musical fantasy lets them imagine the life they did not have."
+  },
+  {
+    "id": 47,
+    "title": "Before Sunrise",
+    "year": 1995,
+    "director": "Richard Linklater",
+    "genres": ["Romance", "Drama"],
+    "cast": "Ethan Hawke, Julie Delpy",
+    "plot": "On a train through Europe, the American backpacker Jesse persuades the French graduate student Céline to disembark with him in Vienna for a single night before his flight home. They wander the city's streets, cafés, and Ferris wheels, talking about love, death, family, and time. With the clock counting down to dawn, their conversation grows into something more intimate than a vacation flirtation but lighter than a future. They part on a train platform with only a vague promise to meet again in six months."
+  },
+  {
+    "id": 48,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "genres": ["Crime", "Drama"],
+    "cast": "John Travolta, Samuel L. Jackson, Uma Thurman, Bruce Willis",
+    "plot": "Three loosely connected stories spiral around a Los Angeles crime boss named Marsellus Wallace. Hitmen Vincent Vega and Jules Winnfield retrieve a mysterious glowing briefcase, and Vincent later spends an electric, near-fatal evening dancing and overdosing with the boss's wife Mia. Aging boxer Butch double-crosses Marsellus on a rigged fight and ends up sharing a basement with him in a pawnshop nightmare. The shuffled timeline weaves cheeseburgers, biblical monologues, and an Adrenaline shot to the heart into a new template for American crime cinema."
+  },
+  {
+    "id": 49,
+    "title": "Goodfellas",
+    "year": 1990,
+    "director": "Martin Scorsese",
+    "genres": ["Crime", "Drama"],
+    "cast": "Robert De Niro, Joe Pesci, Ray Liotta, Lorraine Bracco",
+    "plot": "From childhood, Henry Hill dreams of being a gangster and rises through the New York Lucchese crime family under the wing of veteran Jimmy Conway and the volatile Tommy DeVito. He marries the sharp-tongued Karen, glides through stolen car rings and the Lufthansa heist, and learns the freedoms and rituals of mob life. Cocaine, paranoia, and Tommy's deadly temper begin to destabilize the crew until Henry finds himself wired with the FBI. He ends up in witness protection, a former wiseguy reduced to ordering egg noodles and ketchup in suburbia."
+  },
+  {
+    "id": 50,
+    "title": "Heat",
+    "year": 1995,
+    "director": "Michael Mann",
+    "genres": ["Crime", "Thriller", "Drama"],
+    "cast": "Al Pacino, Robert De Niro, Val Kilmer",
+    "plot": "Methodical career thief Neil McCauley leads a precision crew through armored car robberies and bank heists across a sun-bleached Los Angeles. Driven LAPD detective Vincent Hanna picks up his trail after a violent score leaves dead guards on the pavement. The two men meet face to face in a downtown coffee shop, each acknowledging respect for the other while promising not to hesitate when the moment comes. Their orbits collide in a thunderous downtown shootout and a final airport runway showdown that closes the book on both their careers."
+  },
+  {
+    "id": 51,
+    "title": "The Departed",
+    "year": 2006,
+    "director": "Martin Scorsese",
+    "genres": ["Crime", "Thriller", "Drama"],
+    "cast": "Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg",
+    "plot": "In Boston's Irish-American underworld, undercover state trooper Billy Costigan infiltrates the crew of crime lord Frank Costello, while another young officer named Colin Sullivan secretly serves as Costello's mole inside the Massachusetts State Police. As both moles hunt for each other through scraps of phone calls, ringtones, and surveillance photos, paranoia consumes them. A violent rooftop confrontation shreds the careful illusions on both sides. The final elevator doors open on a rat scuttling along a balcony, sealing the film's vision of an institution rotted from within."
+  },
+  {
+    "id": 52,
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "director": "Coen Brothers",
+    "genres": ["Crime", "Thriller", "Drama"],
+    "cast": "Tommy Lee Jones, Javier Bardem, Josh Brolin",
+    "plot": "While hunting antelope in the West Texas desert, Vietnam veteran Llewelyn Moss stumbles across a botched drug deal and walks away with a satchel containing two million dollars. The implacable hitman Anton Chigurh, armed with a captive bolt pistol and a cold theory of fate, methodically tracks the money and anyone who has touched it. Aging sheriff Ed Tom Bell follows the trail of bodies, struggling to understand a violence he no longer recognizes. The film ends with quiet dread rather than catharsis, suggesting that the country itself has slipped beyond the lawmen who once held it together."
+  },
+  {
+    "id": 53,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "director": "Peter Jackson",
+    "genres": ["Fantasy", "Adventure", "Drama"],
+    "cast": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin",
+    "plot": "In the peaceful Shire, the young hobbit Frodo Baggins inherits a small gold ring from his uncle Bilbo, only to learn from the wizard Gandalf that it is the One Ring forged by the Dark Lord Sauron to dominate all life in Middle-earth. A council in the elven haven of Rivendell forms a fellowship of nine companions sworn to destroy the Ring in the fires of Mount Doom. Their journey carries them through mines beneath Moria, golden Lothlórien, and the rapids of the Anduin River. Betrayal, sacrifice, and the corrupting pull of the Ring eventually scatter the Fellowship at the falls of Rauros."
+  },
+  {
+    "id": 54,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "director": "Peter Jackson",
+    "genres": ["Fantasy", "Adventure", "Drama"],
+    "cast": "Elijah Wood, Ian McKellen, Viggo Mortensen, Sean Astin",
+    "plot": "While Frodo and Sam climb the bleak slopes of Mordor with the treacherous Gollum stalking their every step, the rest of Middle-earth braces for the final assault of Sauron's armies. The white city of Minas Tirith is besieged by orcs, trolls, and the Witch-King, and the king-in-exile Aragorn rallies the dead and the living alike to its defense. As the One Ring inches toward the cracks of Mount Doom, Frodo's resolve buckles under its weight. Gollum's last betrayal becomes the unlikely hand that ends the Dark Lord and frees the world."
+  },
+  {
+    "id": 55,
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "director": "Guillermo del Toro",
+    "genres": ["Fantasy", "Drama", "War"],
+    "cast": "Ivana Baquero, Sergi López, Maribel Verdú, Doug Jones",
+    "plot": "In rural Spain in 1944, the imaginative young girl Ofelia and her pregnant mother are sent to live at a remote mill commanded by her cruel stepfather, a fascist captain hunting anti-Franco partisans in the surrounding forest. A faun in a moss-covered labyrinth tells Ofelia that she is a lost princess of an underground kingdom and gives her three deadly tasks to complete before the moon is full. Her dark fairy tale unfolds in parallel with the brutal counter-insurgency war waged by her stepfather. The film's two worlds collide in an act of sacrifice that lets Ofelia step from blood-soaked stones into a glowing throne room of memory and myth."
+  },
+  {
+    "id": 56,
+    "title": "The Social Network",
+    "year": 2010,
+    "director": "David Fincher",
+    "genres": ["Drama", "Biography"],
+    "cast": "Jesse Eisenberg, Andrew Garfield, Justin Timberlake, Armie Hammer",
+    "plot": "Brilliant and abrasive Harvard sophomore Mark Zuckerberg codes a campus hot-or-not site in a fit of breakup pique and sparks the idea that becomes Facebook. Working out of dorm rooms and a Palo Alto rental house, he ships features at breakneck speed while frozen out friends and rivals begin to file lawsuits. The film cuts between dueling depositions, with co-founder Eduardo Saverin and the privileged Winklevoss twins each laying claim to a piece of the company. Beneath the legal thrust and parry is a portrait of a young man who built a global friendship machine while losing the only friend he had."
+  },
+  {
+    "id": 57,
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "director": "Steven Spielberg",
+    "genres": ["War", "Drama", "History"],
+    "cast": "Tom Hanks, Tom Sizemore, Edward Burns, Matt Damon",
+    "plot": "After surviving the bloody assault on Omaha Beach in June 1944, Captain John Miller is ordered to lead a small squad behind enemy lines to retrieve Private James Ryan, whose three brothers have all been killed in action. The mission carries them through a sniper-haunted French village, a tense encounter with a captured German soldier, and across a countryside still littered with the dying. As the squad questions whether one man is worth the lives it may cost, they reach Ryan defending a strategic bridge in the town of Ramelle. Their final stand against an armored counterattack defines the cost of the order to save just one soldier."
+  },
+  {
+    "id": 58,
+    "title": "1917",
+    "year": 2019,
+    "director": "Sam Mendes",
+    "genres": ["War", "Drama"],
+    "cast": "George MacKay, Dean-Charles Chapman, Mark Strong",
+    "plot": "Two young British corporals, Schofield and Blake, are given the seemingly impossible mission of crossing no-man's-land and miles of enemy territory to deliver an order calling off a doomed dawn attack. The film unfolds in extended takes designed to feel like a single unbroken shot, dragging the audience through trenches, abandoned farmhouses, and a burning night-lit village. Among the obstacles are booby-trapped dugouts, sniper fire from a ruined church, and a current that sweeps Schofield past a tree of falling cherry blossoms. His desperate sprint along a line of soldiers about to go over the top becomes the emotional heart of the film."
+  },
+  {
+    "id": 59,
+    "title": "Logan",
+    "year": 2017,
+    "director": "James Mangold",
+    "genres": ["Action", "Drama", "Science Fiction"],
+    "cast": "Hugh Jackman, Patrick Stewart, Dafne Keen",
+    "plot": "In the dust-bleached year 2029, an aging and ailing Logan drives a limousine along the Mexican border while caring for the dementia-stricken Charles Xavier in a collapsed water tower. Their grim equilibrium is shattered when a young mutant girl named Laura, who shares Logan's claws and rage, arrives in their lives pursued by corporate enforcers. Logan reluctantly agrees to drive her toward a rumored mutant sanctuary called Eden in North Dakota. The road movie strips away superhero gloss to deliver a battered, valedictory portrait of a man who finally decides to let himself be a father before he dies."
+  },
+  {
+    "id": 60,
+    "title": "Joker",
+    "year": 2019,
+    "director": "Todd Phillips",
+    "genres": ["Drama", "Crime", "Thriller"],
+    "cast": "Joaquin Phoenix, Robert De Niro, Zazie Beetz",
+    "plot": "In a decaying 1981 Gotham City, failing party clown and aspiring stand-up comic Arthur Fleck cares for his mentally ill mother in a cramped apartment while struggling with a neurological condition that causes uncontrollable laughter. Cuts to social services, mockery from co-workers, and a humiliating talk-show appearance push him deeper into delusion. After a subway shooting of three Wall Street men accidentally turns him into a folk hero among the city's frustrated poor, Arthur leans into a new identity in painted greasepaint. The film charts his descent into the chaos that will eventually crown him as the Joker."
+  },
+  {
+    "id": 61,
+    "title": "The Truman Show",
+    "year": 1998,
+    "director": "Peter Weir",
+    "genres": ["Drama", "Science Fiction", "Comedy"],
+    "cast": "Jim Carrey, Ed Harris, Laura Linney",
+    "plot": "Truman Burbank lives a cheerful, ordinary life in the seaside town of Seahaven, unaware that every person around him is an actor and every street, sky, and sunset is part of an enormous television set. The omniscient creator Christof orchestrates Truman's existence as a 24-hour reality program watched by the entire world. Cracks in the illusion begin to show when a stage light falls from the sky and a former co-star tries to tell him the truth. Truman's quiet rebellion builds into a sailing trip toward the painted edge of his world and the hidden door beyond it."
+  },
+  {
+    "id": 62,
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "director": "Ron Howard",
+    "genres": ["Drama", "Biography"],
+    "cast": "Russell Crowe, Jennifer Connelly, Ed Harris",
+    "plot": "Brilliant Princeton mathematician John Nash develops a new theory of governing dynamics that promises to reshape economics, but his prodigious intellect is shadowed by paranoid schizophrenia. He becomes convinced that he is decoding Soviet messages hidden in newspapers for a secretive Pentagon handler, while his hallucinations include a roommate and a precocious niece. His wife Alicia anchors him through electroshock therapy, drug regimens, and the slow learning that his most vivid friends are not real. Decades later he stands on a Stockholm stage to accept the Nobel Prize, having made a fragile peace with the figures still standing at the edge of his vision."
+  },
+  {
+    "id": 63,
+    "title": "Dunkirk",
+    "year": 2017,
+    "director": "Christopher Nolan",
+    "genres": ["War", "Drama", "Action"],
+    "cast": "Fionn Whitehead, Tom Hardy, Mark Rylance, Cillian Murphy",
+    "plot": "In the spring of 1940, more than three hundred thousand Allied soldiers are pinned against the French coast at Dunkirk as the German army closes in. The film weaves three timelines together, following a young infantryman waiting on the beaches for a week, a civilian small-boat owner sailing across the Channel for a single day, and a Spitfire pilot fighting in the air for one tense hour. Dive bombers strafe stranded queues on the sand and sink rescue ships within sight of safety. The convergence of the three stories on the makeshift evacuation flotilla turns a defeat into a stubborn act of national survival."
+  },
+  {
+    "id": 64,
+    "title": "Toy Story",
+    "year": 1995,
+    "director": "John Lasseter",
+    "genres": ["Animation", "Family", "Adventure"],
+    "cast": "Tom Hanks, Tim Allen, Don Rickles",
+    "plot": "Inside the bedroom of a young boy named Andy, the toys come to life whenever the humans aren't looking, with the loyal pull-string cowboy Woody as their leader. Andy's birthday brings a new toy, the boastful space ranger Buzz Lightyear, who genuinely believes he is a galactic hero rather than a piece of plastic. Their rivalry gets them lost outside Andy's house and trapped in the home of a sadistic neighbor who tortures toys. Working together to escape, Woody and Buzz become inseparable friends and chase Andy's moving truck home in a triumphant finale."
+  },
+  {
+    "id": 65,
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "director": "Francis Ford Coppola",
+    "genres": ["War", "Drama"],
+    "cast": "Martin Sheen, Marlon Brando, Robert Duvall",
+    "plot": "During the Vietnam War, Army captain Benjamin Willard is given a covert mission to travel up an increasingly hallucinatory river into Cambodia and assassinate Colonel Walter Kurtz, a decorated officer who has gone insane and built his own private army among the local people. Willard's patrol boat passes through a beach assault led by a surfing-obsessed cavalry colonel, a delirious USO show, and a bridge that lights up the jungle each night. The deeper the river goes, the more the war itself appears to dissolve into ritual and madness. Willard's final encounter with Kurtz in a candlelit temple feels less like a killing than the last act of a dark sacrament."
+  }
+]
